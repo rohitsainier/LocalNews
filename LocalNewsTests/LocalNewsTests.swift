@@ -22,7 +22,7 @@ class LocalNewsTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
-        let i = 1
+        let i = 0
         XCTAssert(i == 0, "i is equal to zero")
     }
 
